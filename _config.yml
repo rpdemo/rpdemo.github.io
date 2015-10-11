@@ -1,10 +1,10 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Rahul Pandey
+description: "Startups, programming, design, and anything in between, and everything not in between."
 
 url: http://rpdemo.github.io/
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "page:num/"
+permalink: :title/
 
 markdown: redcarpet
 highlighter: pygments
@@ -12,16 +12,16 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: /index.html
+   url: /
  - title: About
    url: /about
  - title: Contact
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: rahulpandeyc
+   twitter: rahulpandeyc
+   facebook: rahulpandey.net
+   email: hi@rahulpandey.net
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
